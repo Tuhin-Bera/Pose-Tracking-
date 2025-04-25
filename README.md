@@ -1,0 +1,1 @@
+This project demonstrates real-time human pose detection and angle calculation using MediaPipe, OpenCV, and Python. It uses video input (e.g., webcam or file) to detect body landmarks, draw them on the frame, and calculate angles between selected joints.
